@@ -1,0 +1,5 @@
+'L'  'pointer.par'  'compiled'
+'E'  'TRAINMAXFC'   50000
+'E'  'auto_opt'  'true'
+'T'  'min'     100000  180         0 'C:\Program Files (x86)\AWR\AWR2009\optimizers\PointerOpt\s2awr.opt'   'tmp\trained.opt'
+'H'  'END'

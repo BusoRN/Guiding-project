@@ -1,0 +1,380 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$INSUNITS
+  70
+4
+  9
+$EXTMIN
+  10
+-48.8523
+  20
+-3.58488
+  9
+$EXTMAX
+  10
+44.0757
+  20
+6.89512
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+  70
+1
+  0
+LTYPE
+  2
+CONTINUOUS
+  70
+64
+  3
+Solid line
+  72
+65
+  73
+0
+  40
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  70
+1
+  0
+LAYER
+  2
+NA
+  70
+0
+  62
+1
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+-28.8523
+  20
+-1.63469
+  0
+VERTEX
+  8
+NA
+  10
+-18.4873
+  20
+-1.63469
+  0
+VERTEX
+  8
+NA
+  10
+-18.4873
+  20
+4.94494
+  0
+VERTEX
+  8
+NA
+  10
+-28.8523
+  20
+4.94494
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+-18.4873
+  20
+1.13012
+  0
+VERTEX
+  8
+NA
+  10
+-7.4973
+  20
+1.13012
+  0
+VERTEX
+  8
+NA
+  10
+-7.4973
+  20
+2.18012
+  0
+VERTEX
+  8
+NA
+  10
+-18.4873
+  20
+2.18012
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+-7.4973
+  20
+-3.58488
+  0
+VERTEX
+  8
+NA
+  10
+2.7207
+  20
+-3.58488
+  0
+VERTEX
+  8
+NA
+  10
+2.7207
+  20
+6.89512
+  0
+VERTEX
+  8
+NA
+  10
+-7.4973
+  20
+6.89512
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+2.7207
+  20
+1.13012
+  0
+VERTEX
+  8
+NA
+  10
+13.7107
+  20
+1.13012
+  0
+VERTEX
+  8
+NA
+  10
+13.7107
+  20
+2.18012
+  0
+VERTEX
+  8
+NA
+  10
+2.7207
+  20
+2.18012
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+13.7107
+  20
+-1.63469
+  0
+VERTEX
+  8
+NA
+  10
+24.0757
+  20
+-1.63469
+  0
+VERTEX
+  8
+NA
+  10
+24.0757
+  20
+4.94494
+  0
+VERTEX
+  8
+NA
+  10
+13.7107
+  20
+4.94494
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+-48.8523
+  20
+0.466624
+  0
+VERTEX
+  8
+NA
+  10
+-28.8523
+  20
+0.466624
+  0
+VERTEX
+  8
+NA
+  10
+-28.8523
+  20
+2.84362
+  0
+VERTEX
+  8
+NA
+  10
+-48.8523
+  20
+2.84362
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+24.0757
+  20
+0.466624
+  0
+VERTEX
+  8
+NA
+  10
+44.0757
+  20
+0.466624
+  0
+VERTEX
+  8
+NA
+  10
+44.0757
+  20
+2.84362
+  0
+VERTEX
+  8
+NA
+  10
+24.0757
+  20
+2.84362
+  0
+SEQEND
+  0
+ENDSEC
+  0
+EOF
